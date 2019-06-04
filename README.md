@@ -1,6 +1,18 @@
-# dingding_assistant
+# 钉钉打卡助手
 
-A new Flutter project.
+
+
+- 功能
+
+> 设置早晚打卡开始时间，在设置时间后随机0--9分钟拉起钉钉APP
+
+- 注意
+
+> 1、手机设置不黑屏
+>
+> 2、钉钉拉起以后，需要手工切换回本APP到前台，这部分后续再完善	
+
+
 
 ## Getting Started
 
